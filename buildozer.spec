@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = AI
+title = My Application
 
 # (str) Package name
 package.name = myapp
@@ -37,7 +37,7 @@ version = 0.1
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
-requirements = python3, kivy, pillow, numpy, mediapipe, cv2
+requirements = python3,kivy
 
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
